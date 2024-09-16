@@ -13,3 +13,10 @@
 
 ## Accuracy formula
   ∑ | true value - predicted value | 
+
+## Result
+
+<div align="center">
+  <img src="./r1.png" height="400">
+  <img src="./r2.png" height="400">
+</div>
